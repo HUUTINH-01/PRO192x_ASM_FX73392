@@ -35,7 +35,8 @@
 
 ## 👨‍💻 作成者情報
 
-- 氏名：NGUYEN HUU TINH(グエン　フウ　ティン）   
+- 氏名：NGUYEN HUU TINH(グエン　フウ　ティン）
+- gmail：huutinh2701@gmail.com
 - 学校：ECCコンピューター専門学校
 - 科目：Java プログラミング   
 
